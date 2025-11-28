@@ -2,7 +2,7 @@
 
 **Contract Address:** `0x25DE8Acd894021799b1581b0d86f38b979ddACD0`
 
-**Explorer Reference:** Flare Coston2 Deployment  
+**Explorer Reference:** https://coston2-explorer.flare.network//tx/0x1453df5d10c19f2436f820993ae4724f895238f1bfefb72bc11ae14bfe004893 
 **Purpose:** Immutable storage & verification of document fingerprints on-chain.
 
 ## 🧾 Overview
